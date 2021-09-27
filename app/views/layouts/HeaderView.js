@@ -29,7 +29,7 @@ export const HeaderView = () => {
     idAbStatus +
     '"></span> | REQUEST COUNT: <span id="' +
     idAbRequestCount +
-    '">0</span></h1>' +
+    '">0</span> | PROFIT: <span id="profit_count">0</span></h1>' +
     '   <div class="view-navbar-clubinfo">' +
     '       <div class="view-navbar-clubinfo-data">' +
     '           <div class="view-navbar-clubinfo-id">' +
